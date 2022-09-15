@@ -1,0 +1,90 @@
+E:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+E:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+E:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+E:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+E:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+E:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+E:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+F:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+F:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+F:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+F:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+F:\3° TIN\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+F:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+F:\3° TIN\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\BouncyCastle.Crypto.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.xml
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.xml
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DAO.pdb
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\BouncyCastle.Crypto.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\DTO.pdb
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\Google.Protobuf.xml
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\bin\Debug\MySql.Data.xml
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DAO\obj\Debug\DAO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\DAO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\DAO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\DTO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\MySql.Data.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\DTO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\bin\Debug\MySql.Data.xml
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\obj\Debug\DAO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM Final\DAO\obj\Debug\DAO.pdb

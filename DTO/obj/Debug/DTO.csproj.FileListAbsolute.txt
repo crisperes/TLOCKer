@@ -1,0 +1,54 @@
+E:\3° TIN\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.dll
+E:\3° TIN\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.pdb
+E:\3° TIN\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\3° TIN\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\3° TIN\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.dll
+E:\3° TIN\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.pdb
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.dll
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.xml
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.xml
+C:\Users\crist\Documents\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.pdb
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\BouncyCastle.Crypto.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.xml
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.xml
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.dll
+D:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.pdb
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.pdb
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.xml
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.xml
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.dll
+C:\Users\Tecnico\Desktop\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.pdb
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\DTO.pdb
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\BouncyCastle.Crypto.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\Google.Protobuf.xml
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\bin\Debug\MySql.Data.xml
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.csproj.CopyComplete
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.dll
+F:\ETEC\TCC\TLOCKER-SYSTEM\DTO\obj\Debug\DTO.pdb
